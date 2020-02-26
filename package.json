@@ -1,0 +1,16 @@
+{
+  "name": "aws-sdk-roles-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.596.0",
+    "json2csv": "^4.5.4",
+    "moment": "^2.24.0"
+  }
+}
